@@ -9,8 +9,6 @@
 - Working with the database using the library <a href="https://github.com/jmoiron/sqlx">sqlx</a>.
 - Writing SQL queries.
 
-### Для запуска приложения:
-
 ```bash
 go run cmd/main.go
 ```
